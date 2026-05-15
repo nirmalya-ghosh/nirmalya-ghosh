@@ -297,9 +297,13 @@
 
 ---
 
-## Generated Contribution Snake
+## 🟩 Contribution Activity
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=A7F3D0&center=true&vCenter=true&width=760&lines=Consistency+in+public+building;Daily+GitHub+activity+visualized+automatically" alt="Contribution activity animation"/>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake-dark.svg"/>
@@ -307,9 +311,12 @@
   <img src="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
 </picture>
 
-</div>
+<br/><br/>
 
-Generated daily by `.github/workflows/snake.yml` from the `output` branch. The workflow also prepares a GIF variant after the next run.
+<img src="https://img.shields.io/badge/Auto--updated-Daily-10B981?style=for-the-badge&logo=githubactions&logoColor=white" alt="Daily auto update"/>
+<img src="https://img.shields.io/badge/Powered%20by-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+
+</div>
 
 ---
 
