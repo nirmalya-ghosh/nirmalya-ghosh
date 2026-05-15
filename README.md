@@ -300,9 +300,7 @@ Stack
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/nirmalya2127?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="60%" alt="LeetCode heatmap card"/>
-&nbsp;
-<img src="https://leetcode-stats.vercel.app/api?username=nirmalya2127&theme=Dark" width="36%" alt="LeetCode solved stats"/>
+<img src="https://leetcard.jacoblin.cool/nirmalya2127?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="72%" alt="LeetCode heatmap and solved stats card"/>
 
 <br/><br/>
 
