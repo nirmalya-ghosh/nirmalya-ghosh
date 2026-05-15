@@ -382,13 +382,15 @@ Target
 
 <div align="center">
 
-<a href="https://github.com/nirmalya-ghosh/nirmalya-ghosh/actions/workflows/snake.yml">
-  <img src="https://img.shields.io/badge/Contribution%20Snake-Generated%20by%20GitHub%20Actions-58A6FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Contribution snake workflow"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
+</picture>
 
 </div>
 
-The snake animation is wired through `.github/workflows/snake.yml`. After the workflow runs in the GitHub profile repository, it will publish SVG assets to the `output` branch; the README avoids embedding those URLs before they exist so visitors do not see broken images.
+Generated daily by `.github/workflows/snake.yml` and refreshed from the `output` branch.
 
 ---
 
