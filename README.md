@@ -38,38 +38,30 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand"/> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer coding animation"/>
+<div align="center">
 
-```python
-class NirmalyaGhosh:
-    name = "Nirmalya Ghosh"
-    title = "Aspiring AI/ML Software Engineer"
-    university = "KIIT University - B.Tech CSE, 2025-2029"
-    sgpa = "9.45 / 10.0"
-    location = "Bhubaneswar, India"
-    goal = "AI/ML Engineer at a high-impact product company"
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=2400&pause=700&color=A7F3D0&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+progress+with+full-stack+shipping+habits;I+build+data-heavy+products%2C+ML+workflows%2C+and+clean+interfaces;Recruiter+snapshot%3A+DSA+%2B+ML+%2B+projects+%2B+execution" alt="About me animated typing"/>
 
-    core_stack = {
-        "Languages": ["Python", "Java", "C", "C++", "JavaScript", "TypeScript"],
-        "AI/ML": ["scikit-learn", "TensorFlow", "OpenCV", "Pandas", "NumPy"],
-        "Web": ["React", "Node.js", "Express", "REST APIs"],
-        "Systems": ["Git", "Docker", "Linux", "AWS basics"],
-        "Security": ["Kali Linux", "Nmap", "Penetration Testing"]
-    }
+<br/>
 
-    highlights = [
-        "Top 350 - Apple Swift Student Challenge 2026",
-        "NASA Space Apps Challenge 2025 - Galactic Problem Solver",
-        "430 LeetCode problems solved: 129 Easy, 238 Medium, 63 Hard",
-        "Built ML analytics over 5M+ Aadhaar records",
-        "Built AI-assisted astronaut well-being monitoring"
-    ]
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="38%" alt="Developer coding animation"/>
 
-    def current_focus(self):
-        return "Deep Learning, NLP, Computer Vision, and applied AI products"
-```
+<br/><br/>
 
-<br clear="right"/>
+<img src="https://img.shields.io/badge/Identity-Aspiring%20AI%2FML%20Software%20Engineer-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Identity"/>
+<img src="https://img.shields.io/badge/University-KIIT%20B.Tech%20CSE%202025--2029-58A6FF?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="University"/>
+<img src="https://img.shields.io/badge/Current%20SGPA-9.45%20%2F%2010.0-10B981?style=for-the-badge&logo=starship&logoColor=white" alt="SGPA"/>
+<img src="https://img.shields.io/badge/Base-Bhubaneswar%2C%20India-F97316?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LeetCode-430%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/Apple%20Swift%20Student%20Challenge-Top%20350-111111?style=flat-square&logo=apple&logoColor=white" alt="Apple Swift Student Challenge"/>
+<img src="https://img.shields.io/badge/NASA%20Space%20Apps-Galactic%20Problem%20Solver-0B3D91?style=flat-square&logo=nasa&logoColor=white" alt="NASA"/>
+<img src="https://img.shields.io/badge/Aadhaar%20Analytics-5M%2B%20Records-58A6FF?style=flat-square&logo=databricks&logoColor=white" alt="Aadhaar analytics"/>
+<img src="https://img.shields.io/badge/ASTRA--CARE-AI%20Health%20Monitoring-A78BFA?style=flat-square&logo=opencv&logoColor=white" alt="ASTRA-CARE"/>
+
+</div>
 
 > I am building toward AI/ML engineering roles with a blend of DSA depth, applied machine learning, and full-stack product sense. My best work sits where measurable engineering, human-centered interfaces, and real-world data meet.
 
@@ -104,61 +96,57 @@ class NirmalyaGhosh:
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Academic+timeline+with+strong+CSE+foundation;KIIT+CSE+%E2%80%A2+SGPA+9.45+%2F+10.0;ICSE+Class+X+%E2%80%A2+95%25" alt="Education animation"/>
+
+<br/><br/>
+
 ![KIIT University](https://img.shields.io/badge/KIIT%20University-B.Tech%20Computer%20Science%20Engineering-0052CC?style=for-the-badge&logo=academia&logoColor=white)
 ![Year](https://img.shields.io/badge/2025%20to%202029-SGPA%209.45%20%2F%2010.0-22C55E?style=for-the-badge&logo=googleclassroom&logoColor=white)
 ![Class X](https://img.shields.io/badge/ICSE%20Class%20X-95%25-F97316?style=for-the-badge&logo=readme&logoColor=white)
 
-</div>
-
-<details open>
-<summary><b>Academic timeline</b></summary>
 <br/>
 
-```text
-2025 - 2029
-  KIIT University, Bhubaneswar
-  B.Tech - Computer Science Engineering
-  Current performance: SGPA 9.45 / 10.0
+<img src="https://img.shields.io/badge/2025--2029-KIIT%20University%20%7C%20B.Tech%20CSE%20%7C%20SGPA%209.45-1F6FEB?style=for-the-badge" alt="KIIT timeline"/>
+<br/>
+<img src="https://img.shields.io/badge/2025-Beachwood%20School%20%7C%20CBSE%20Class%20XII-238636?style=for-the-badge" alt="Beachwood timeline"/>
+<br/>
+<img src="https://img.shields.io/badge/2023-St.%20Xavier%27s%20School%20%7C%20ICSE%20Class%20X%20%7C%2095%25-F97316?style=for-the-badge" alt="St Xavier timeline"/>
 
-2025
-  Beachwood School - CBSE
-  Senior Secondary, Class XII
+<br/><br/>
 
-2023
-  St. Xavier's School - ICSE
-  Secondary, Class X
-  Score: 95%
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirmalya-ghosh&theme=tokyonight" height="165" alt="GitHub stats card beside education"/>
 
-</details>
+</div>
 
 ---
 
 ## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="28" alt="Work animation"/> Work Experience
 
-<details open>
-<summary><b>Web Development Intern - Oasis Infobyte, Remote</b></summary>
-<br/>
+<div align="center">
 
-```text
-Dec 2025 -> Jan 2026
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=20&duration=2300&pause=650&color=F97316&center=true&vCenter=true&width=780&lines=Web+Development+Intern+%40+Oasis+Infobyte;Remote+internship+%E2%80%A2+Dec+2025+to+Jan+2026;Responsive+portfolio+%E2%80%A2+UI%2FUX+%E2%80%A2+clean+frontend+execution" alt="Work animation"/>
 
-Role impact
-  Built and deployed a responsive developer portfolio with HTML, CSS, and JavaScript.
-  Applied UI/UX principles to improve layout, navigation, and usability.
-  Delivered cross-device compatible interfaces with clean, maintainable code.
-  Focused on performance, accessibility basics, and recruiter-friendly presentation.
+<br/><br/>
 
-Stack
-  HTML - CSS - JavaScript - Responsive Web Design - UI/UX Principles
-```
+<img src="https://img.shields.io/badge/Oasis%20Infobyte-Web%20Development%20Intern-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Role"/>
+<img src="https://img.shields.io/badge/Mode-Remote-58A6FF?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Remote"/>
+<img src="https://img.shields.io/badge/Duration-Dec%202025%20to%20Jan%202026-10B981?style=for-the-badge&logo=calendar&logoColor=white" alt="Duration"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Built-Responsive%20Developer%20Portfolio-111827?style=flat-square&logo=html5&logoColor=white" alt="Built portfolio"/>
+<img src="https://img.shields.io/badge/Improved-Layout%20%2B%20Navigation%20%2B%20Usability-111827?style=flat-square&logo=figma&logoColor=white" alt="Improved UI"/>
+<img src="https://img.shields.io/badge/Delivered-Cross--device%20Interfaces-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Cross device"/>
+<img src="https://img.shields.io/badge/Focus-Performance%20%2B%20Clean%20Code-111827?style=flat-square&logo=lighthouse&logoColor=white" alt="Performance"/>
+
+<br/><br/>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-111827?style=flat-square&logo=googlechrome&logoColor=white)
 
-</details>
+</div>
 
 <div align="center">
 
@@ -170,63 +158,37 @@ Stack
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" alt="Project animation"/> Featured Projects
 
-<details open>
-<summary><b>AadhaarInsight Pro - Data Analytics Platform, UIDAI Data Hackathon 2026</b></summary>
-<br/>
+<div align="center">
 
-```text
-Mission
-  Build an analytics workflow for large-scale Aadhaar enrollment insights.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2300&pause=700&color=58A6FF&center=true&vCenter=true&width=860&lines=Project+portfolio+with+data%2C+AI%2C+and+product+execution;AadhaarInsight+Pro%3A+5M%2B+records+%2B+forecasting+%2B+analytics;ASTRA-CARE%3A+rPPG+%2B+computer+vision+%2B+well-being+monitoring" alt="Projects animation"/>
 
-Engineering highlights
-  Processed 5M+ Aadhaar records across 36 states.
-  Built ETL, statistical analysis, and visualization workflows.
-  Produced 11 analytical visualizations for infrastructure planning.
-  Developed a Linear Regression forecasting model with R2 = 0.53.
-
-Stack
-  Python - Pandas - NumPy - Matplotlib - Seaborn - scikit-learn
-```
+<br/><br/>
 
 <a href="https://github.com/TyphoonCoder2007/UIDAI_DATA_HACKATHON_2026_NIRMALYAGHOSH">
-  <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="AadhaarInsight repository"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=TyphoonCoder2007&repo=UIDAI_DATA_HACKATHON_2026_NIRMALYAGHOSH&theme=tokyonight&hide_border=true&show_owner=true" alt="AadhaarInsight Pro repository card"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/TyphoonCoder2007/ASTRA-CARE">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=TyphoonCoder2007&repo=ASTRA-CARE&theme=tokyonight&hide_border=true&show_owner=true" alt="ASTRA-CARE repository card"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AadhaarInsight%20Pro-5M%2B%20records%20across%2036%20states-58A6FF?style=for-the-badge&logo=databricks&logoColor=white" alt="AadhaarInsight impact"/>
+<img src="https://img.shields.io/badge/Forecasting-Linear%20Regression%20R2%200.53-10B981?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Forecasting"/>
+<img src="https://img.shields.io/badge/ASTRA--CARE-rPPG%20%2B%20CV%20health%20monitoring-A78BFA?style=for-the-badge&logo=opencv&logoColor=white" alt="ASTRA-CARE impact"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-Safety%20focused%20escalation-F97316?style=for-the-badge&logo=openai&logoColor=white" alt="Explainable AI"/>
+
+<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Data Viz](https://img.shields.io/badge/Data%20Visualization-58A6FF?style=flat-square&logo=plotly&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>ASTRA-CARE - Intelligent Astronaut Well-Being Monitoring System</b></summary>
-<br/>
-
-```text
-Mission
-  Build an AI-assisted health monitoring platform for astronaut well-being.
-
-Engineering highlights
-  Integrated physiological and facial signal analysis.
-  Implemented rPPG for non-contact physiological signal estimation.
-  Built stress, fatigue, and emotional state detection modules.
-  Designed an explainable AI interface with safety-focused escalation.
-
-Stack
-  Python - OpenCV - Computer Vision - Signal Processing - rPPG - Explainable AI
-```
-
-<a href="https://github.com/TyphoonCoder2007/ASTRA-CARE">
-  <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ASTRA-CARE repository"/>
-</a>
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-7C3AED?style=flat-square&logo=opencv&logoColor=white)
 ![Signal Processing](https://img.shields.io/badge/Signal%20Processing-10B981?style=flat-square&logo=python&logoColor=white)
-![Explainable AI](https://img.shields.io/badge/Explainable%20AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 
-</details>
+</div>
 
 <div align="center">
 
@@ -316,31 +278,19 @@ Stack
 
 ## <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="28" alt="Achievement animation"/> Achievements & Certifications
 
-<details open>
-<summary><b>Hall of fame</b></summary>
-<br/>
-
-```text
-Competitive achievements
-  Top 350 - Apple Swift Student Challenge 2026
-  NASA Space Apps Challenge 2025 - Galactic Problem Solver
-  Finalist - Dark Route Hackathon, KIIT University
-  UIDAI Data Hackathon 2026 - AadhaarInsight Pro
-  Solved 430 LeetCode problems across Easy, Medium, and Hard
-
-Certifications and programs
-  Software Engineer Role Certification - HackerRank
-  Oracle Cloud Infrastructure AI Foundations Associate - Oracle
-  Agentic AI Skill-Up Program - GeeksforGeeks
-  Agentic AI Bootcamp Season 2 - UiPath at KIIT
-  Google Analytics Certification - Google
-  Google 5-Day Intensive ML Program - Google / Kaggle
-  Web Development Internship - Oasis Infobyte
-```
-
-</details>
-
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2300&pause=700&color=A78BFA&center=true&vCenter=true&width=860&lines=Recognition+wall+%E2%80%A2+hackathons+%E2%80%A2+certifications;Top+350+-+Apple+Swift+Student+Challenge+2026;NASA+Galactic+Problem+Solver+%2B+HackerRank+SWE+Certified" alt="Achievements animation"/>
+
+<br/><br/>
+
+![Apple](https://img.shields.io/badge/Top%20350-Apple%20Swift%20Student%20Challenge%202026-000000?style=for-the-badge&logo=apple&logoColor=white)
+![NASA](https://img.shields.io/badge/NASA%20Space%20Apps%202025-Galactic%20Problem%20Solver-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+![Dark Route](https://img.shields.io/badge/Dark%20Route%20Hackathon-Finalist-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)
+![UIDAI](https://img.shields.io/badge/UIDAI%20Data%20Hackathon-AadhaarInsight%20Pro-58A6FF?style=for-the-badge&logo=databricks&logoColor=white)
+![LeetCode](https://img.shields.io/badge/DSA-430%20LeetCode%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+<br/><br/>
 
 ![Apple](https://img.shields.io/badge/Apple%20Swift%20Student%20Challenge-Top%20350-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![NASA](https://img.shields.io/badge/NASA%20Space%20Apps-Galactic%20Problem%20Solver-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
@@ -357,22 +307,28 @@ Certifications and programs
 
 <div align="center">
 
-```text
-Completed
-  Strong DSA base: 430 LeetCode problems solved
-  Applied ML projects: Aadhaar analytics and astronaut health AI
-  Recognition: Top 350 - Apple Swift Student Challenge 2026, NASA Galactic Problem Solver
-  Certifications: HackerRank SWE, Oracle OCI AI, Google Analytics
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2400&pause=700&color=10B981&center=true&vCenter=true&width=900&lines=Roadmap%3A+DSA+%E2%86%92+Applied+ML+%E2%86%92+Research+%E2%86%92+AI%2FML+Engineering;Completed%3A+430+LeetCode+%2B+real+ML+projects+%2B+certifications;In+progress%3A+Deep+Learning+%2B+NLP+%2B+Computer+Vision+%2B+open+source" alt="Roadmap typing animation"/>
 
-In progress
-  Deep Learning, NLP, Computer Vision, and LLM application building
-  Open-source contribution consistency
-  Research-grade project documentation and technical writing
+<br/><br/>
 
-Target
-  AI/ML research internship in 2026
-  Production AI/ML engineering role at a high-impact company
-```
+![Completed](https://img.shields.io/badge/Completed-DSA%20430%2B%20LeetCode-10B981?style=for-the-badge&logo=leetcode&logoColor=white)
+![Completed](https://img.shields.io/badge/Completed-Aadhaar%20Analytics%20%2B%20ASTRA--CARE-58A6FF?style=for-the-badge&logo=python&logoColor=white)
+![Completed](https://img.shields.io/badge/Completed-Apple%20Top%20350%20%2B%20NASA%20Recognition-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)
+
+<br/><br/>
+
+![Learning](https://img.shields.io/badge/In%20Progress-Deep%20Learning%20%2B%20NLP-F97316?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Building](https://img.shields.io/badge/In%20Progress-Computer%20Vision%20%2B%20LLM%20Apps-A78BFA?style=for-the-badge&logo=openai&logoColor=white)
+![Open Source](https://img.shields.io/badge/In%20Progress-Open%20Source%20Consistency-238636?style=for-the-badge&logo=github&logoColor=white)
+
+<br/><br/>
+
+![Target](https://img.shields.io/badge/Target-2026%20AI%2FML%20Research%20Internship-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Target](https://img.shields.io/badge/Target-Production%20AI%2FML%20Engineering%20Role-111827?style=for-the-badge&logo=target&logoColor=white)
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalya-ghosh&theme=react-dark&hide_border=true&area=true&area_color=7C3AED&color=A7F3D0&line=58A6FF&point=F97316&custom_title=Roadmap%20Momentum%20-%20GitHub%20Activity" width="96%" alt="Roadmap momentum graph"/>
 
 </div>
 
@@ -390,7 +346,7 @@ Target
 
 </div>
 
-Generated daily by `.github/workflows/snake.yml` and refreshed from the `output` branch.
+Generated daily by `.github/workflows/snake.yml` from the `output` branch. The workflow also prepares a GIF variant after the next run.
 
 ---
 
