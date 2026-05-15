@@ -1,294 +1,526 @@
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--              ANIMATION 1 — CAPSULE RENDER HEADER           -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Nirmalya%20Ghosh&fontSize=60&fontColor=fff&fontAlignY=35&desc=🤖%20AI%2FML%20Engineer%20in%20Making%20%7C%20Full%20Stack%20Dev%20%7C%20KIIT%202029&descSize=18&descAlignY=58&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+</div>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--              ANIMATION 2 — TYPING SVG                       -->
+<!-- ════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<!-- 🎨 1. ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nirmalya%20Ghosh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20KIIT%202029&descAlignY=56&descColor=a0c4ff&animation=fadeIn" width="100%"/>
-
-<!-- 🎨 2. TYPING SVG ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%8C%90;400%2B+LeetCode+Problems+Solved+%E2%9C%85;KIIT+CSE+%7C+SGPA+9.45+%F0%9F%8E%93;NASA+%7C+UIDAI+Hackathon+Finalist+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%92%A1)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- 🎨 3. PROFILE BADGES -->
-[![Profile Views](https://komarev.com/ghpvc/?username=nirmalya-ghosh&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/nirmalya-ghosh)
-[![GitHub followers](https://img.shields.io/github/followers/nirmalya-ghosh?label=Followers&style=social)](https://github.com/nirmalya-ghosh)
-[![GitHub stars](https://img.shields.io/github/stars/nirmalya-ghosh?label=Stars&style=social)](https://github.com/nirmalya-ghosh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🚀+Targeting+MAANG+%2F+FAANG+AI%2FML+Roles;🧠+400%2B+LeetCode+Problems+Solved;🏆+NASA+%7C+Apple+%7C+UIDAI+Hackathon+Winner;📊+KIIT+CSE+%7C+SGPA+9.45+%2F+10.0;💡+Building+Intelligent+Systems+with+AI)](https://git.io/typing-svg)
 
 </div>
 
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--              ANIMATION 3 — LIVE BADGES ROW                 -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nirmalya-ghosh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/nirmalya-ghosh)
+[![GitHub followers](https://img.shields.io/github/followers/nirmalya-ghosh?style=for-the-badge&color=blue&label=FOLLOWERS)](https://github.com/nirmalya-ghosh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nirmalya2127/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://nirmalyaghosh.netlify.app)
+
+</div>
+
+<br/>
+
 ---
 
-## 🧠 About Me
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--              SECTION — ABOUT ME (ANIMATED CODE BLOCK)       -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
 ```python
 class NirmalyaGhosh:
-    def __init__(self):
-        self.name        = "Nirmalya Ghosh"
-        self.role        = "Aspiring AI/ML Software Engineer"
-        self.university  = "KIIT University, Bhubaneswar — B.Tech CSE (SGPA: 9.45/10)"
-        self.goal        = "AI/ML Engineer at MAANG / FAANG"
-        self.languages   = ["Java", "Python", "C", "C++", "JavaScript", "TypeScript"]
-        self.interests   = ["Machine Learning", "Deep Learning", "Data Science",
-                            "Full Stack Dev", "Ethical Hacking", "Computer Vision"]
-        self.leetcode    = "400+ problems solved (Easy + Medium + Hard)"
-        self.email       = "nirmalyaghosh2127@gmail.com"
-        self.portfolio   = "https://nirmalyaghosh.netlify.app"
+
+    name        = "Nirmalya Ghosh"
+    title       = "Aspiring AI/ML Software Engineer"
+    university  = "KIIT — B.Tech CSE (SGPA: 9.45/10)"
+    location    = "Bhubaneswar, India 🇮🇳"
+    goal        = "AI/ML Engineer @ MAANG / FAANG"
+
+    skills = {
+        "Languages" : ["Python","Java","C","C++","JS","TS"],
+        "AI / ML"   : ["Scikit-learn","TensorFlow","OpenCV"],
+        "Web"       : ["React","Node.js","Express","REST API"],
+        "DB"        : ["MySQL", "MongoDB"],
+        "Security"  : ["Kali Linux","Nmap","Pen Testing"],
+        "Cloud"     : ["AWS (Basics)", "Docker", "Git"]
+    }
+
+    achievements = [
+        "🏆 Top 350 — Apple Swift Student Challenge 2026",
+        "🚀 Galactic Problem Solver — NASA Space Apps 2025",
+        "🥈 Finalist — Dark Route Hackathon @ KIIT",
+        "📊 UIDAI Data Hackathon 2026 Participant",
+        "🧠 400+ LeetCode | HackerRank SWE Certified"
+    ]
+
+    def current_focus(self):
+        return "Deep Learning • NLP • Computer Vision • LLMs 🔥"
 
     def life_goal(self):
-        return "Build impactful AI systems that solve real-world problems at scale 🚀"
+        return "Build AI that changes the world 🌍🚀"
 ```
 
-> 🎯 I'm on a mission to break into **MAANG/FAANG as an AI/ML Engineer** — combining strong DSA fundamentals,
-> hands-on ML projects, and full-stack engineering. I've built real AI systems — from astronaut health monitors
-> to Aadhaar data analytics — and I'm just getting started.
+<br clear="right"/>
+
+> *🎯 I've built AI systems for astronaut health monitoring, processed 5M+ Aadhaar records with ML,
+> earned recognition from NASA & Apple — and I'm just warming up.*
+
+<br/>
 
 ---
 
-## 🎓 Education
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--           STATS ROW 1 — RIGHT AFTER ABOUT ME               -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-| 🏛️ Institution | 📚 Degree / Board | 📅 Year | 🏅 Score |
-|---|---|---|---|
-| KIIT University, Bhubaneswar | B.Tech – Computer Science Engineering | 2025 – 2029 | **SGPA: 9.45 / 10.0** |
-| Beachwood School (CBSE) | Senior Secondary – Class XII | 2025 | — |
-| St. Xavier's School (ICSE) | Secondary – Class X | 2023 | **95%** |
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> &nbsp;GitHub Stats
 
----
+<!-- ANIMATION 4 — GitHub Stats (Fixed: using salesp07 fork for better uptime) -->
+<div align="center">
 
-## 💼 Work Experience
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=nirmalya-ghosh&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="185" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<!-- ANIMATION 5 — Top Languages (Fixed: using salesp07 fork) -->
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nirmalya-ghosh&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" height="185" alt="Top Languages"/>
 
-### 🖥️ Web Development Intern — Oasis Infobyte *(Remote)*
-**Dec 2025 – Jan 2026**
+</div>
 
-- Built and deployed a responsive developer portfolio using **HTML, CSS & JavaScript**
-- Applied **UI/UX design principles** to improve layout, navigation, and usability
-- Built cross-device compatible interfaces with clean code and performance optimization
-- **Tech Stack:** `HTML` `CSS` `JavaScript` `Responsive Web Design` `UI/UX Principles`
+<br/>
 
----
+<!-- ANIMATION 6 — GitHub Streak -->
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=nirmalya-ghosh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="70%" alt="GitHub Streak"/>
+</div>
 
-## 🚀 Projects
-
-### 🔷 AadhaarInsight Pro — Data Analytics Platform *(UIDAI Data Hackathon 2026)*
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/TyphoonCoder2007/UIDAI_DATA_HACKATHON_2026_NIRMALYAGHOSH)
-
-- Built a **data analytics pipeline in Python** processing **5M+ Aadhaar records** across 36 states
-- Performed **ETL, statistical analysis & visualization** using Pandas, NumPy, Matplotlib, Seaborn
-- Developed an **ML forecasting model** (Linear Regression, R² = 0.53) to predict enrollment trends
-- Generated **11 analytical visualizations** supporting data-driven infrastructure planning
-- **Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Linear Regression`
+<br/>
 
 ---
 
-### 🔷 ASTRA-CARE — Intelligent Astronaut Well-Being Monitoring System
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/TyphoonCoder2007/ASTRA-CARE)
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--           SECTION — EDUCATION (ANIMATED CARD STYLE)         -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-- Designed an **AI-assisted health monitoring platform** integrating physiological + facial signal analysis
-- Implemented **rPPG (remote photoplethysmography)** for non-contact physiological signal estimation
-- Built modules for **stress, fatigue & emotional state detection** via computer vision & signal processing
-- Developed an **explainable AI interface** with safety-focused escalation mechanisms
-- **Tech:** `Python` `Computer Vision` `Signal Processing` `rPPG` `Explainable AI` `OpenCV`
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="28"/> &nbsp;Education
+
+<div align="center">
+
+[![KIIT](https://img.shields.io/badge/🏛️_KIIT_University-B.Tech_Computer_Science_Engineering-0052CC?style=for-the-badge)](https://kiit.ac.in)
+[![Year](https://img.shields.io/badge/📅_2025–2029-SGPA:_9.45_/_10.0-28a745?style=for-the-badge)](#)
+
+</div>
+
+<details open>
+<summary><b>🎓 Full Academic Timeline</b></summary>
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🏛️  KIIT UNIVERSITY — Bhubaneswar, India                           │
+│      B.Tech · Computer Science & Information Technology             │
+│      2025 → 2029  |  ⭐ SGPA: 9.45 / 10.0                          │
+├─────────────────────────────────────────────────────────────────────┤
+│  📘  BEACHWOOD SCHOOL — CBSE Board                                  │
+│      Senior Secondary · Class XII (Science + CS)                    │
+│      2025                                                           │
+├─────────────────────────────────────────────────────────────────────┤
+│  📗  ST. XAVIER'S SCHOOL — ICSE Board                               │
+│      Secondary · Class X                                            │
+│      2023  |  🏅 Score: 95%                                         │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--       SECTION — WORK EXPERIENCE (ANIMATED TIMELINE)         -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="28"/> &nbsp;Work Experience
+
+<details open>
+<summary><b>💼 Professional Timeline</b></summary>
+<br/>
+
+```
+  Dec 2025 ──────────────────────── Jan 2026
+       │
+       ▼
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  🖥️  WEB DEVELOPMENT INTERN — Oasis Infobyte (Remote)        ║
+  ╠══════════════════════════════════════════════════════════════╣
+  ║  ✅  Built & deployed a responsive developer portfolio       ║
+  ║  ✅  Applied UI/UX principles for cross-device compatibility  ║
+  ║  ✅  Clean code + performance optimization                   ║
+  ║                                                              ║
+  ║  🔧 HTML • CSS • JavaScript • UI/UX • Responsive Design      ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+
+</details>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--    STATS ROW 2 — TROPHIES (DISTRIBUTED THROUGHOUT)          -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+<!-- ANIMATION 7 — Trophies -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nirmalya-ghosh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" width="100%" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--       SECTION — PROJECTS (ANIMATED CARD STYLE)              -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Featured Projects
+
+<details open>
+<summary><b>🔷 AadhaarInsight Pro — UIDAI Data Hackathon 2026</b></summary>
+<br/>
+
+```
+  📌  DATA ANALYTICS PLATFORM FOR INDIA'S DIGITAL IDENTITY SYSTEM
+  ────────────────────────────────────────────────────────────────
+  🔗  github.com/TyphoonCoder2007/UIDAI_DATA_HACKATHON_2026_NIRMALYAGHOSH
+
+  🏗️  What I Built:
+       ├── 🔄  ETL pipeline processing 5M+ Aadhaar records (36 states)
+       ├── 📊  11 analytical visualizations for infrastructure planning
+       ├── 🤖  ML forecasting model — Linear Regression (R² = 0.53)
+       └── 📈  Demographic trend analysis & enrollment predictions
+
+  🛠️  Stack: Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
+```
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/TyphoonCoder2007/UIDAI_DATA_HACKATHON_2026_NIRMALYAGHOSH)
+[![Python](https://img.shields.io/badge/Python-ML_Pipeline-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Scikit](https://img.shields.io/badge/Scikit--learn-Forecasting-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](#)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🔷 ASTRA-CARE — Intelligent Astronaut Well-Being Monitor</b></summary>
+<br/>
+
+```
+  📌  AI-POWERED ASTRONAUT HEALTH MONITORING SYSTEM
+  ────────────────────────────────────────────────────────────────
+  🔗  github.com/TyphoonCoder2007/ASTRA-CARE
+
+  🏗️  What I Built:
+       ├── 💓  rPPG — non-contact heart rate from webcam streams
+       ├── 😰  Stress, fatigue & emotional state detection (CV)
+       ├── 🧠  Explainable AI interface with psych insights
+       └── 🚨  Safety-focused escalation mechanism
+
+  🛠️  Stack: Python • OpenCV • Signal Processing • rPPG • XAI
+```
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/TyphoonCoder2007/ASTRA-CARE)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](#)
+[![XAI](https://img.shields.io/badge/Explainable_AI-Health_Monitor-FF6B6B?style=flat-square)](#)
+
+</details>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--    STATS ROW 3 — ACTIVITY GRAPH (DISTRIBUTED)               -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+<!-- ANIMATION 8 — Activity Graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalya-ghosh&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF&custom_title=📈%20Nirmalya's%20Contribution%20Activity" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--              SECTION — TECH STACK                           -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Tech Stack
+
+<div align="center">
+
+**💻 Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🤖 AI / ML & Data Science
+**🤖 AI / ML & Data Science**
+
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-### 🌐 Web Development
+**🌐 Web Development**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Databases & DevOps
+**🗄️ Databases & Cloud & Tools**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🔐 Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=linux&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Pen_Testing-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--    STATS ROW 4 — PROFILE SUMMARY CARDS (DISTRIBUTED)        -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<!-- 🎨 4. GITHUB STATS CARD -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> &nbsp;Detailed Profile Breakdown
+
+<!-- ANIMATION 9 — Profile Summary (Detail Card) -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nirmalya-ghosh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmalya-ghosh&theme=tokyonight" width="98%" alt="Profile Details"/>
+</div>
+
+<div align="center">
+
+<!-- ANIMATION 10 — Repos per Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirmalya-ghosh&theme=tokyonight" height="175" alt="Repos Per Language"/>
 &nbsp;
-<!-- 🎨 5. TOP LANGUAGES CARD -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalya-ghosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
-</div>
-
-<br/>
-
-<!-- 🎨 6. GITHUB STREAK -->
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=nirmalya-ghosh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="70%"/>
-</div>
-
-<br/>
-
-<!-- 🎨 7. GITHUB TROPHIES -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nirmalya-ghosh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
-</div>
-
-<br/>
-
-<!-- 🎨 8. ACTIVITY GRAPH -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalya-ghosh&theme=tokyo-night&hide_border=true&area=true&custom_title=Nirmalya's%20Contribution%20Graph" width="100%"/>
-</div>
-
-<br/>
-
-<!-- 🎨 9-13. PROFILE SUMMARY CARDS -->
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmalya-ghosh&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirmalya-ghosh&theme=tokyonight" height="180"/>
+<!-- ANIMATION 11 — Most Commit Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirmalya-ghosh&theme=tokyonight" height="175" alt="Most Commit Language"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirmalya-ghosh&theme=tokyonight" height="180"/>
+<!-- ANIMATION 12 — Productive Time -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nirmalya-ghosh&theme=tokyonight&utcOffset=5.5" height="175" alt="Productive Time"/>
+
 </div>
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirmalya-ghosh&theme=tokyonight" height="180"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nirmalya-ghosh&theme=tokyonight&utcOffset=5.5" height="180"/>
-</div>
+<br/>
 
 ---
 
-## 🧩 LeetCode Stats
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--    STATS ROW 5 — LEETCODE (FIXED WITH WORKING URL)          -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<!-- 🎨 14. LEETCODE STATS CARD -->
+## <img src="https://media.giphy.com/media/cIn5fTcjnDMqg/giphy.gif" width="28"/> &nbsp;LeetCode Stats
+
+<!-- ANIMATION 13 — LeetCode Card (Fixed provider) -->
 <div align="center">
-<img src="https://leetcard.jacoblin.com/nirmalya2127?theme=dark&font=Nunito&ext=contest&border=0" width="60%"/>
+
+<img src="https://leetcard.jacoblin.com/nirmalya2127?theme=dark&font=JetBrains+Mono&ext=contest&border=0&width=500" alt="LeetCode Stats" height="300"/>
+
 </div>
 
-> ✅ **400+ Problems Solved** &nbsp;|&nbsp; 💡 Easy + Medium + Hard &nbsp;|&nbsp; 🎯 High Acceptance Rate
+<div align="center">
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-nirmalya2127-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nirmalya2127/)
+[![Problems](https://img.shields.io/badge/Problems_Solved-400%2B-success?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+[![Difficulty](https://img.shields.io/badge/Easy%20%7C%20Medium%20%7C%20Hard-All_Levels-blue?style=for-the-badge)](#)
+
+</div>
+
+<br/>
 
 ---
 
-## 🐍 Contribution Snake Animation
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--    SECTION — ACHIEVEMENTS (ANIMATED BADGE STYLE)            -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<!-- 🎨 15. SNAKE ANIMATION (requires GitHub Action setup — see note below) -->
+## <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="28"/> &nbsp;Achievements & Certifications
+
+<details open>
+<summary><b>🏆 Hall of Fame</b></summary>
+<br/>
+
+```
+  🥇  COMPETITIVE ACHIEVEMENTS
+  ──────────────────────────────────────────────────────────────
+  🍎  Top 350 Worldwide — Apple Swift Student Challenge 2026
+  🚀  Galactic Problem Solver — NASA Space Apps Challenge 2025
+  🥈  Finalist — Dark Route Hackathon @ KIIT University
+  📊  Participant — UIDAI Data Hackathon 2026
+
+  🎓  CERTIFICATIONS
+  ──────────────────────────────────────────────────────────────
+  🎖️  Software Engineer Role Certification         — HackerRank
+  ☁️  OCI AI Foundations Associate                 — Oracle
+  🤖  Agentic AI Skill-Up Program                  — GeeksforGeeks
+  🦾  Agentic AI Bootcamp Season 2                 — UiPath @ KIIT
+  📊  Google Analytics Certification               — Google
+  🔬  Google 5-Day Intensive ML Program            — Google / Kaggle
+  💼  Web Development Internship                   — Oasis Infobyte
+```
+
+</details>
+
+<br/>
+
+<div align="center">
+
+![Apple](https://img.shields.io/badge/🍎_Apple_Swift_Challenge-Top_350_Worldwide-000000?style=for-the-badge&logo=apple&logoColor=white)
+![NASA](https://img.shields.io/badge/🚀_NASA_Space_Apps-Galactic_Problem_Solver-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-SWE_Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-OCI_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Analytics_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-ML_Intensive-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--    SECTION — ROADMAP                                        -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## 🗺️ &nbsp;MAANG / FAANG AI/ML Roadmap
+
+<div align="center">
+
+```
+  ✅  DSA Mastery — 400+ LeetCode Problems Solved
+  ✅  Real ML Projects — Aadhaar Analytics + Astronaut Health AI
+  ✅  Prestigious Wins — Apple Top 350, NASA Galactic Solver
+  ✅  Certifications — Oracle OCI, Google Analytics, HackerRank SWE
+  🔄  Deep Learning & NLP — Currently Learning
+  🔄  Computer Vision — ASTRA-CARE in Progress
+  🔜  Open Source Contributions
+  🔜  Research Paper Publication
+  🎯  AI/ML Research Internship — Target 2026
+  🎯  MAANG / FAANG AI/ML Role — The Ultimate Goal 🏁
+```
+
+</div>
+
+<br/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--    STATS ROW 6 — SNAKE ANIMATION                            -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp;Contribution Snake
+
+<!-- ANIMATION 14 — Snake (requires GitHub Action — YAML inside comment below) -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake-dark.svg"
+    width="100%" alt="Contribution Snake Animation"/>
 </picture>
 </div>
 
-> ⚙️ **Setup:** Create `.github/workflows/snake.yml` in this repo — see instructions below the README.
+<br/>
 
 ---
 
-## 🏆 Achievements & Certifications
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--    STATS ROW 7 — DEV QUOTE (RANDOMIZED EVERY VISIT)         -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-| 🥇 Achievement | 🏢 Issuer |
-|---|---|
-| 🧠 Solved **400+** LeetCode problems in DSA | LeetCode |
-| 🎖️ **Software Engineer Role Certification** | HackerRank |
-| 🚀 **NASA Space Apps Challenge 2025** — *Galactic Problem Solver* | NASA |
-| 🥈 **Finalist — Dark Route Hackathon** | KIIT University |
-| ☁️ **Oracle Cloud Infrastructure AI Foundations Associate** | Oracle |
-| 🤖 **Agentic AI Skill-Up Program** | GeeksforGeeks |
-| 🦾 **Agentic AI Bootcamp Season 2** | UiPath @ KIIT |
-| 📊 **Google Analytics Certification** | Google |
-| 🔬 **Google 5-Day Intensive ML Program** | Google / Kaggle |
-| 💼 **Web Development Internship** | Oasis Infobyte |
-
----
-
-## 🗺️ My MAANG/FAANG AI/ML Roadmap
-
-```
-✅  Strong DSA Foundation (400+ LeetCode)
-✅  First ML Projects Deployed (Hackathon & Health AI)
-✅  Cloud & Analytics Certifications (Oracle, Google)
-🔄  Deep Learning & NLP (In Progress)
-🔜  Open Source Contributions
-🎯  AI/ML Research Internship (Target: 2026)
-🎯  MAANG / FAANG AI/ML Role (Ultimate Goal)
-```
-
----
-
-## 💬 Dev Quote of the Day
-
-<!-- 🎨 16. RANDOM DEV QUOTES -->
+<!-- ANIMATION 15 — Random Dev Quote -->
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" alt="Dev Quote"/>
 </div>
 
+<br/>
+
 ---
 
-## 🗣️ Languages
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--    SECTION — CONNECT                                        -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nirmalya_Ghosh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmalya-ghosh-422569377/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-nirmalya2127-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nirmalya2127/)
+[![GitHub](https://img.shields.io/badge/GitHub-TyphoonCoder2007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TyphoonCoder2007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nirmalyaghosh.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://nirmalyaghosh.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-nirmalyaghosh2127-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmalyaghosh2127@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_8967836222-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918967836222)
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ![English](https://img.shields.io/badge/English-Fluent-2196F3?style=flat-square)
 ![Hindi](https://img.shields.io/badge/Hindi-Fluent-FF9800?style=flat-square)
 ![Bengali](https://img.shields.io/badge/Bengali-Fluent-4CAF50?style=flat-square)
 
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmalya-ghosh-422569377/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nirmalya2127/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TyphoonCoder2007)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nirmalyaghosh.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmalyaghosh2127@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_8967836222-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918967836222)
-
 </div>
 
----
+<br/>
 
-<!-- 🎨 17. ANIMATED WAVE FOOTER -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--              ANIMATION 16 — ANIMATED FOOTER                 -->
+<!-- ════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=a0c4ff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20if%20you%20liked%20it&fontSize=18&fontColor=a0c4ff&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
-
----
 
 <!--
-╔══════════════════════════════════════════════════════════╗
-║          🐍 SNAKE ANIMATION SETUP INSTRUCTIONS           ║
-╠══════════════════════════════════════════════════════════╣
-║ 1. In this repo, create: .github/workflows/snake.yml     ║
-║ 2. Paste the following content:                           ║
-╚══════════════════════════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🐍 SNAKE ANIMATION — CREATE THIS FILE IN YOUR REPO:
+   Path: .github/workflows/snake.yml
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 name: Generate Snake Animation
 on:
@@ -313,4 +545,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
