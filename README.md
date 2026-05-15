@@ -325,20 +325,35 @@ Generated daily by `.github/workflows/snake.yml` from the `output` branch. The w
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=20&duration=2600&pause=900&color=A7F3D0&center=true&vCenter=true&width=760&lines=Open+to+AI%2FML+internships%2C+research%2C+and+full-stack+roles;Let%27s+connect+around+ML%2C+data%2C+and+product+engineering" alt="Contact typing animation"/>
+
+<br/><br/>
+
+**Professional Profiles**
+
+<br/>
+
 <a href="https://www.linkedin.com/in/nirmalya-ghosh-422569377/">
-  <img src="https://img.shields.io/badge/LinkedIn-Nirmalya%20Ghosh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/nirmalya2127/">
-  <img src="https://img.shields.io/badge/LeetCode-nirmalya2127-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/nirmalya-ghosh">
-  <img src="https://img.shields.io/badge/GitHub-nirmalya--ghosh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://nirmalyaghosh.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-nirmalyaghosh.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-View%20Live%20Work-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
 </a>
+<a href="https://leetcode.com/u/nirmalya2127/">
+  <img src="https://img.shields.io/badge/LeetCode-DSA%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+**Direct Contact**
+
+<br/>
+
 <a href="mailto:nirmalyaghosh2127@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-nirmalyaghosh2127-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Email-nirmalyaghosh2127%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://wa.me/918967836222">
   <img src="https://img.shields.io/badge/WhatsApp-%2B91%208967836222-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
@@ -346,9 +361,13 @@ Generated daily by `.github/workflows/snake.yml` from the `output` branch. The w
 
 <br/><br/>
 
-![English](https://img.shields.io/badge/English-Fluent-2196F3?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Fluent-FF9800?style=flat-square)
-![Bengali](https://img.shields.io/badge/Bengali-Fluent-4CAF50?style=flat-square)
+**Communication**
+
+<br/>
+
+![English](https://img.shields.io/badge/English-Fluent-2196F3?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Fluent-FF9800?style=for-the-badge)
+![Bengali](https://img.shields.io/badge/Bengali-Fluent-4CAF50?style=for-the-badge)
 
 </div>
 
