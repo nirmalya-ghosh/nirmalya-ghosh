@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:123456,100:7C3AED&height=230&section=header&text=Nirmalya%20Ghosh&fontSize=58&fontColor=FFFFFF&fontAlignY=34&desc=Aspiring%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20KIIT%202029&descSize=18&descAlignY=57&descColor=A7F3D0&animation=fadeIn" width="100%" alt="Animated profile header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=780&height=58&lines=Building+AI+systems+with+real-world+impact;430+LeetCode+problems+solved+across+all+levels;Top+350+-+Apple+Swift+Student+Challenge+2026;NASA+Space+Apps+Galactic+Problem+Solver;Full-stack+engineering+%2B+machine+learning)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=780&height=58&lines=Building+AI+systems+with+real-world+impact;430+LeetCode+problems+solved+across+all+levels;Top+350+-+Apple+Swift+Student+Challenge+2026;NASA+Space+Apps+Galactic+Problem+Solver;Full-stack+engineering+%2B+machine+learning" width="100%" alt="Animated intro typing"/>
 
 <br/>
 
@@ -25,11 +25,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=2400&pause=700&color=A7F3D0&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+progress+with+full-stack+shipping+habits;I+build+data-heavy+products%2C+ML+workflows%2C+and+clean+interfaces;Recruiter+snapshot%3A+DSA+%2B+ML+%2B+projects+%2B+execution" alt="About me animated typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=2400&pause=700&color=A7F3D0&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+progress+with+full-stack+shipping+habits;I+build+data-heavy+products%2C+ML+workflows%2C+and+clean+interfaces;Recruiter+snapshot%3A+DSA+%2B+ML+%2B+projects+%2B+execution" width="100%" alt="About me animated typing"/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="38%" alt="Developer coding animation"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55%" alt="Developer coding animation"/>
 
 <br/><br/>
 
@@ -81,13 +81,15 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=nirmalya-ghosh&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Nirmalya%27s%20GitHub%20Overview" height="185" alt="GitHub stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nirmalya-ghosh&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&custom_title=Most%20Used%20Languages" height="185" alt="Top languages"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=nirmalya-ghosh&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Nirmalya%27s%20GitHub%20Overview" width="100%" alt="GitHub stats"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=nirmalya-ghosh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="72%" alt="GitHub streak"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nirmalya-ghosh&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&custom_title=Most%20Used%20Languages" width="100%" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=nirmalya-ghosh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%" alt="GitHub streak"/>
 
 </div>
 
@@ -97,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Academic+timeline+with+strong+CSE+foundation;KIIT+CSE+%E2%80%A2+SGPA+9.45+%2F+10.0;ICSE+Class+X+%E2%80%A2+95%25" alt="Education animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Academic+timeline+with+strong+CSE+foundation;KIIT+CSE+%E2%80%A2+SGPA+9.45+%2F+10.0;ICSE+Class+X+%E2%80%A2+95%25" width="100%" alt="Education animation"/>
 
 <br/><br/>
 
@@ -125,7 +127,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=20&duration=2300&pause=650&color=F97316&center=true&vCenter=true&width=780&lines=Web+Development+Intern+%40+Oasis+Infobyte;Remote+internship+%E2%80%A2+Dec+2025+to+Jan+2026;Responsive+portfolio+%E2%80%A2+UI%2FUX+%E2%80%A2+clean+frontend+execution" alt="Work animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=20&duration=2300&pause=650&color=F97316&center=true&vCenter=true&width=780&lines=Web+Development+Intern+%40+Oasis+Infobyte;Remote+internship+%E2%80%A2+Dec+2025+to+Jan+2026;Responsive+portfolio+%E2%80%A2+UI%2FUX+%E2%80%A2+clean+frontend+execution" width="100%" alt="Work animation"/>
 
 <br/><br/>
 
@@ -155,7 +157,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2300&pause=700&color=58A6FF&center=true&vCenter=true&width=860&lines=Project+portfolio+with+data%2C+AI%2C+and+product+execution;AadhaarInsight+Pro%3A+5M%2B+records+%2B+forecasting+%2B+analytics;ASTRA-CARE%3A+rPPG+%2B+computer+vision+%2B+well-being+monitoring" alt="Projects animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2300&pause=700&color=58A6FF&center=true&vCenter=true&width=860&lines=Project+portfolio+with+data%2C+AI%2C+and+product+execution;AadhaarInsight+Pro%3A+5M%2B+records+%2B+forecasting+%2B+analytics;ASTRA-CARE%3A+rPPG+%2B+computer+vision+%2B+well-being+monitoring" width="100%" alt="Projects animation"/>
 
 <br/><br/>
 
@@ -245,7 +247,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/nirmalya2127?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="72%" alt="LeetCode heatmap and solved stats card"/>
+<img src="https://leetcard.jacoblin.cool/nirmalya2127?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="100%" alt="LeetCode heatmap and solved stats card"/>
 
 <br/><br/>
 
@@ -263,7 +265,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2300&pause=700&color=A78BFA&center=true&vCenter=true&width=860&lines=Recognition+wall+%E2%80%A2+hackathons+%E2%80%A2+certifications;Top+350+-+Apple+Swift+Student+Challenge+2026;NASA+Galactic+Problem+Solver+%2B+HackerRank+SWE+Certified" alt="Achievements animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2300&pause=700&color=A78BFA&center=true&vCenter=true&width=860&lines=Recognition+wall+%E2%80%A2+hackathons+%E2%80%A2+certifications;Top+350+-+Apple+Swift+Student+Challenge+2026;NASA+Galactic+Problem+Solver+%2B+HackerRank+SWE+Certified" width="100%" alt="Achievements animation"/>
 
 <br/><br/>
 
@@ -301,7 +303,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=A7F3D0&center=true&vCenter=true&width=760&lines=Consistency+in+public+building;Daily+GitHub+activity+visualized+automatically" alt="Contribution activity animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=A7F3D0&center=true&vCenter=true&width=760&lines=Consistency+in+public+building;Daily+GitHub+activity+visualized+automatically" width="100%" alt="Contribution activity animation"/>
 
 <br/><br/>
 
@@ -320,9 +322,18 @@
 
 ---
 
+## 💡 Engineering Principle
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" alt="Random developer quote"/>
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Clean systems scale better than clever shortcuts.</b><br/>
+      <sub>I build with clarity, measurable impact, and long-term maintainability in mind.</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -332,7 +343,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=20&duration=2600&pause=900&color=A7F3D0&center=true&vCenter=true&width=760&lines=Open+to+AI%2FML+internships%2C+research%2C+and+full-stack+roles;Let%27s+connect+around+ML%2C+data%2C+and+product+engineering" alt="Contact typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=20&duration=2600&pause=900&color=A7F3D0&center=true&vCenter=true&width=760&lines=Open+to+AI%2FML+internships%2C+research%2C+and+full-stack+roles;Let%27s+connect+around+ML%2C+data%2C+and+product+engineering" width="100%" alt="Contact typing animation"/>
 
 <br/><br/>
 
