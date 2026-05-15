@@ -1,7 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nirmalya%20Ghosh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20KIIT%202029&descAlignY=58&descColor=a0c4ff" width="100%"/>
+<!-- 🎨 1. ANIMATED WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Nirmalya%20Ghosh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20KIIT%202029&descAlignY=56&descColor=a0c4ff&animation=fadeIn" width="100%"/>
 
+<!-- 🎨 2. TYPING SVG ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%8C%90;400%2B+LeetCode+Problems+Solved+%E2%9C%85;KIIT+CSE+%7C+SGPA+9.45+%F0%9F%8E%93;NASA+%7C+UIDAI+Hackathon+Finalist+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- 🎨 3. PROFILE BADGES -->
 [![Profile Views](https://komarev.com/ghpvc/?username=nirmalya-ghosh&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/nirmalya-ghosh)
 [![GitHub followers](https://img.shields.io/github/followers/nirmalya-ghosh?label=Followers&style=social)](https://github.com/nirmalya-ghosh)
 [![GitHub stars](https://img.shields.io/github/stars/nirmalya-ghosh?label=Stars&style=social)](https://github.com/nirmalya-ghosh)
@@ -51,9 +58,9 @@ class NirmalyaGhosh:
 ### 🖥️ Web Development Intern — Oasis Infobyte *(Remote)*
 **Dec 2025 – Jan 2026**
 
-- Built and deployed a responsive developer portfolio website using **HTML, CSS & JavaScript**
-- Applied **UI/UX design principles** to improve layout structure, navigation, and usability
-- Built cross-device compatible interfaces with clean code practices and performance optimization
+- Built and deployed a responsive developer portfolio using **HTML, CSS & JavaScript**
+- Applied **UI/UX design principles** to improve layout, navigation, and usability
+- Built cross-device compatible interfaces with clean code and performance optimization
 - **Tech Stack:** `HTML` `CSS` `JavaScript` `Responsive Web Design` `UI/UX Principles`
 
 ---
@@ -64,7 +71,7 @@ class NirmalyaGhosh:
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/TyphoonCoder2007/UIDAI_DATA_HACKATHON_2026_NIRMALYAGHOSH)
 
 - Built a **data analytics pipeline in Python** processing **5M+ Aadhaar records** across 36 states
-- Performed **ETL, statistical analysis & visualization** using Pandas, NumPy, Matplotlib, and Seaborn
+- Performed **ETL, statistical analysis & visualization** using Pandas, NumPy, Matplotlib, Seaborn
 - Developed an **ML forecasting model** (Linear Regression, R² = 0.53) to predict enrollment trends
 - Generated **11 analytical visualizations** supporting data-driven infrastructure planning
 - **Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Linear Regression`
@@ -75,9 +82,9 @@ class NirmalyaGhosh:
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/TyphoonCoder2007/ASTRA-CARE)
 
 - Designed an **AI-assisted health monitoring platform** integrating physiological + facial signal analysis
-- Implemented **rPPG (remote photoplethysmography)** to estimate non-contact physiological signals from webcam streams
-- Built modules for **stress, fatigue & emotional state detection** using computer vision & signal processing
-- Developed an **explainable AI interface** with psychological insights and safety-focused escalation mechanisms
+- Implemented **rPPG (remote photoplethysmography)** for non-contact physiological signal estimation
+- Built modules for **stress, fatigue & emotional state detection** via computer vision & signal processing
+- Developed an **explainable AI interface** with safety-focused escalation mechanisms
 - **Tech:** `Python` `Computer Vision` `Signal Processing` `rPPG` `Explainable AI` `OpenCV`
 
 ---
@@ -129,43 +136,79 @@ class NirmalyaGhosh:
 
 ## 📊 GitHub Stats
 
+<!-- 🎨 4. GITHUB STATS CARD -->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nirmalya-ghosh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nirmalya-ghosh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalya-ghosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<!-- 🎨 5. TOP LANGUAGES CARD -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalya-ghosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
+</div>
 
+<br/>
+
+<!-- 🎨 6. GITHUB STREAK -->
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=nirmalya-ghosh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="70%"/>
+</div>
+
+<br/>
+
+<!-- 🎨 7. GITHUB TROPHIES -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nirmalya-ghosh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
+</div>
+
+<br/>
+
+<!-- 🎨 8. ACTIVITY GRAPH -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalya-ghosh&theme=tokyo-night&hide_border=true&area=true&custom_title=Nirmalya's%20Contribution%20Graph" width="100%"/>
+</div>
+
+<br/>
+
+<!-- 🎨 9-13. PROFILE SUMMARY CARDS -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirmalya-ghosh&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nirmalya-ghosh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirmalya-ghosh&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirmalya-ghosh&theme=tokyonight" height="180"/>
 </div>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nirmalya-ghosh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirmalya-ghosh&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirmalya-ghosh&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nirmalya-ghosh&theme=tokyonight&utcOffset=5.5" height="180"/>
 </div>
 
 ---
 
 ## 🧩 LeetCode Stats
 
+<!-- 🎨 14. LEETCODE STATS CARD -->
 <div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.com/nirmalya2127?theme=dark&font=Nunito&ext=contest&border=0)](https://leetcode.com/u/nirmalya2127/)
-
+<img src="https://leetcard.jacoblin.com/nirmalya2127?theme=dark&font=Nunito&ext=contest&border=0" width="60%"/>
 </div>
 
 > ✅ **400+ Problems Solved** &nbsp;|&nbsp; 💡 Easy + Medium + Hard &nbsp;|&nbsp; 🎯 High Acceptance Rate
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<!-- 🎨 15. SNAKE ANIMATION (requires GitHub Action setup — see note below) -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nirmalya-ghosh/nirmalya-ghosh/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
+
+> ⚙️ **Setup:** Create `.github/workflows/snake.yml` in this repo — see instructions below the README.
 
 ---
 
@@ -200,6 +243,15 @@ class NirmalyaGhosh:
 
 ---
 
+## 💬 Dev Quote of the Day
+
+<!-- 🎨 16. RANDOM DEV QUOTES -->
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+</div>
+
+---
+
 ## 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-Fluent-2196F3?style=flat-square)
@@ -223,10 +275,42 @@ class NirmalyaGhosh:
 
 ---
 
+<!-- 🎨 17. ANIMATED WAVE FOOTER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-*"The best way to predict the future is to build it." — Alan Kay*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=a0c4ff&fontAlignY=65" width="100%"/>
 </div>
+
+---
+
+<!--
+╔══════════════════════════════════════════════════════════╗
+║          🐍 SNAKE ANIMATION SETUP INSTRUCTIONS           ║
+╠══════════════════════════════════════════════════════════╣
+║ 1. In this repo, create: .github/workflows/snake.yml     ║
+║ 2. Paste the following content:                           ║
+╚══════════════════════════════════════════════════════════╝
+
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
